@@ -1,0 +1,73 @@
+* {
+ background-color: #86bac6; 
+}
+
+body {
+ background-color: lightgray;
+ 
+}
+
+h1 {
+ color: purple;
+ 
+}
+
+p {
+ color: black;
+ 
+}
+
+div {
+ width: 100px;
+ height: 100px;
+ border: 1px solid red; 
+}
+
+.div1 {
+ width: 100px;
+ height: 100px;
+ border: 1px solid red; 
+}
+
+.div2 {
+ width: 100px;
+ height: 100px;
+ border: 1px solid red; 
+}
+
+.div3 {
+ width: 100px;
+ height: 100px;
+ border: 1px solid red; 
+}
+
+.div4 {
+ width: 100px;
+ height: 100px;
+ border: 1px solid red; 
+}
+
+img {
+ border: 30px groove blue; 
+ 
+}
+
+.image1 {
+ border: 10px dashed blue; 
+ 
+}
+
+.image2 {
+ border: 10px dotted blue; 
+ 
+}
+
+.image3 {
+ border: 10px double blue; 
+ 
+}
+
+.image4 {
+ border: 10px ridge blue; 
+ 
+}
